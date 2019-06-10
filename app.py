@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 import os
 from gtts import gTTS
-export GOOGLE_APPLICATION_CREDENTIALS=/home/caratred/Downloads/voicechat-rxcihi-655967653fc9.json
+
 
 # engine = pyttsx3.init() 
 r = sr.Recognizer()
